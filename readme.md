@@ -2,5 +2,16 @@
 
 En este reto estamos realizando un sketch sobre la información de alumnas de Laboratoria.
 
-1. Primero hemos realizado "click" en la opción sedes, para escoger el país del cual queremos la información de las alumnas, despues el año y por ultimó si es la primera o segunda generación de ese año. Tenemos que tener en cuenta  que esta opción es obligatoria para poder pasar a "información estudiantil" de manera directa:
-![sedes_inicios](assets/Sedes.JPG)
+1. Primero, hemos realizado un mapa de America y señalado en la localización exacta en donde se encuentran las sedes de Labororatia. Sí hacemos _"click"_ en **Lima**, el sistema solo nos dara la información de la estudiantes y profesores de **esa** sede
+![entrada](assets/img/entrada.JPG)
+
+2. Despues de escoger la sede, nos rebotará a la página de entrada donde el usuarío tendría que ingresar su codigo junto con la contraseña para poder visualizar los datos estudiantiles. En caso de que hayamos escogido una sede erronea, para no regresar al _inicio_ (al mapa), nos ubicamos donde dice **LABORATORIA LIMA**, le hacemos _"click"_ y nos aparecere todas las sedes. En caso de que nos hallamos olvidado la contraseña, he creado la opción en la parte baja de la página, para que nos lo reenvie a nuestro correo personal.
+![entrada_2](assets/img/entrada-2.JPG)
+
+3. En este siguiente paso, nos encontramos en la opción **"Generación"** donde nos mostrara el año desde que  *Laboratoria* empezó. En este simulacro, nos hemos situado en el año 2016, el cual nos rebota la opción de la _I y II generación_ y por último, el turno del cpual queremos la data. Sin embargo, si tenemos la información de una estudiante en especifico, podemos filtrarlo por su código personal, en la parte baja izquierda.
+![opción-generación](assets/img/generacion.JPG)
+
+4. Al haber terminado de escoger la generación, grupo y turno, nos encontraremos en *Información estadística*, cual nos dará una información estadística general de las estudiantes de **solo** ese turno; Sí queremos información mas personalizada de las estudiantes o profesoras, nos ubicamos en la opción _alumnas_ o _profesoras_, la cual aparece cuando escogemos la opción *Información estadística*. Ambas opciones, tendran una foto de las alumnas/profesoras y al hacerles **click** a la foto, nos dara toda la data personalizada.
+![data-estadística](assets/img/data.JPG)
+
+> Tercer reto de código realizado por Franshesca Quezada.
